@@ -13,8 +13,7 @@ A .NET library to access [TVDSutie](https://TVDSuite.com/) API
     // Logged in
   }
   else
-    MessageBox.Show(login.Message + "\nError Code: " + login, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-    ```
+    MessageBox.Show(login.Message + "\nError Code: " + login, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);```
 - - -
 
 ## Todo:
