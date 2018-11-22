@@ -13,7 +13,7 @@ TVDSuite api = new TVDSuite();
 ```cs
 
 var login = api.Login("Username", "Password");
-if (login.Success && permission.Success)
+if (login.Success)
 {
   // Logged in
 }
