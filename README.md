@@ -1,3 +1,5 @@
+# PROJECT IS NO LONGER MAINTAINED
+
 # TVDSuite
 A .NET library to access [TVDSutie](https://TVDSuite.com/) API
 - - -
